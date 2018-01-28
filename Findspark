@@ -1,3 +1,10 @@
 import findspark
 findspark.init('/home/roi/spark-2.1.0-bin-hadoop2.7')
 import pyspark
+
+
+# SparkNote
+cd spark....
+cd python
+sudo chmod 777 pyspark
+jupyter notebook
